@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8" />
-  <meta name="description" content="The Hello World program, in PHP" />
+  <meta name="description" content="XXX" />
   <meta name="keywords" content="mths, icd2o" />
   <meta name="author" content="Clara Tyman" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -14,7 +14,7 @@
   <link sizes="32x32" href="favicon-32x32.png" />
   <link sizes="16x16" href="favicon-16x16.png" />
   <link rel="manifest" href="site.webmanifest" />
-  <title>The Hello World program,in PHP</title>
+  <title>XXX</title>
 </head>
 
 </html>
